@@ -33,6 +33,7 @@
 
 # Build files
 build/*
+image.ppm
 
 # VS Code
 .vscode/
